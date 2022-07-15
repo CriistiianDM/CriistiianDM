@@ -20,11 +20,11 @@ I love Ubuntu 20.04 LTS and have some knowledge of Linux server administration :
   <strong>Work Version: </strong> [sitie](https://sistemasases.github.io/rutasdeatencion/) <br>
   <strong>Repository: </strong> [sitie](https://github.com/sistemasases/rutasdeatencion)
   
-### Remodeling 2022 made for me
+### Remodeling 2022 made for me :man_mechanic:
   <strong>Pages of ASES</strong> [sitie](https://ases.univalle.edu.co)
  
  
-### Participation in the development and resolution of errors
+### Participation in the development and resolution of errors :mage_man:
    <strong>Moodle ASES</strong> [sitie](https://campusvirtual.univalle.edu.co/moodle/)
 <!---
 CriistiianDM/CriistiianDM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
