@@ -2,7 +2,10 @@
 
 I'm develop of applications web in the actual and specialize backend and frontend :black_heart: <br>
 I try create algorithms optima to great scale and efficient for solution of problems :guardsman: <br>
-Very easy adaptability to new programming languages ​​and operating systems :frog:
+Very easy adaptability to new programming languages ​​and operating systems :frog: <br>
+I love Ubuntu 20.04 LTS and have some knowledge of Linux server administration :whale: :feet:
+
+## MY ACHIEVEMENT
 
 <!---
 CriistiianDM/CriistiianDM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
