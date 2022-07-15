@@ -10,10 +10,15 @@ I love Ubuntu 20.04 LTS and have some knowledge of Linux server administration :
 
 ### My first sitie web for univeristy of Univalle :love_letter: <br>
   
-  <img width='500em' height='300em' src='https://user-images.githubusercontent.com/62184928/179315636-f988f298-0f8c-4f51-b80c-2cad69080849.png' /> <br>
   <strong>Final Version: </strong> [sitie](https://sistemasases.github.io/semaforoalertas/) <br>
   <strong>Deployed Version: </strong> [sitie](https://asesinteractiva.univalle.edu.co/semaforoalertas/) <br>
   <strong>Repository: </strong> [sitie](https://github.com/sistemasases/semaforoalertas)
+  
+  
+### My second sitie web for univeristy of Univalle :boom: <br>
+  
+  <strong>Work Version: </strong> [sitie](https://sistemasases.github.io/rutasdeatencion/) <br>
+  <strong>Repository: </strong> [sitie](https://github.com/sistemasases/rutasdeatencion)
   
 <!---
 CriistiianDM/CriistiianDM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
